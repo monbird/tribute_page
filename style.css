@@ -1,0 +1,49 @@
+#main {
+    background-image: url(./background_img.jpg);
+    background-repeat: repeat;
+    font-family:  monospace;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+#title {
+    font-size: 55px;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    width: 99%;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    font-style: italic;
+    text-align: center;
+    font-size: 14px;
+}
+
+#tribute-info {
+    text-align: center;
+    padding: 15px 6%;
+}
+
+.intro p {
+    font-size: 20px;
+}
+
+.list {
+    text-align: justify;
+    word-wrap: normal;
+    line-height: 35px;
+}
+
+ul {
+    padding-right: 5%;
+}
+
+#footer {
+    padding: 4px 2px;
+}
