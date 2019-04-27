@@ -1,8 +1,8 @@
-# Tribute Page
+# FCC - Tribute Page
+FreeCodeCamp: Responsive Web Design Projects - Build a Tribute Page
 
-This is my first project done as part of Responsive Web Design Path undertaken at [freeCodeCamp](https://www.freecodecamp.org). It utilises my HTML and CSS skills.
+This is the first of the Responsive Web Design Projects in Free Code Camp and the objective was to build a tribute page that meets Free Code Camp's user stories.
 
-The page is purely informative and does not involve user interaction.
+The page is purely informative and does not involve any user interaction.
 
-Link to live website:
-https://codepen.io/monptasz/full/LaoWgR
+You can find a list of requirements and further information on the project [here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) and you can view the completed project by clicking [here](http://monptasz.com/tribute-page/).
