@@ -5,4 +5,4 @@ This is the first of the Responsive Web Design Projects in Free Code Camp and th
 
 The page is purely informative and does not involve any user interaction.
 
-You can find a list of requirements and further information on the project [here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) and you can view the completed project by clicking [here](http://monptasz.com/tribute-page/).
+You can find a list of requirements and further information on the project [here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) and you can view the completed project by clicking [here](http://monbird.com/tribute-page/).
